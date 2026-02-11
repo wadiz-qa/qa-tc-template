@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+
+# 산출물 (프로젝트별 생성되므로 추적하지 않음)
+*.xlsx
+
+# Python 캐시
+__pycache__/
+*.pyc
+
+# 분석 결과 (Phase 1에서 자동 생성됨, 필요시 제거)
+# _summaries/*.md
