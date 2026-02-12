@@ -9,7 +9,7 @@
 1. `_summaries/` 폴더의 요약 파일 4종을 모두 읽기
 2. `규칙_TC포맷과소스.md`에서 포맷 조건 확인
 3. `역할_QA전문가.md`에서 역할 컨텍스트 확인
-4. 템플릿 참조: `/Users/Claude/ProjectQA/Templete- Testcase by Claude V2.pdf`
+4. TC 템플릿 참조: `/Users/Claude/ProjectQA/Templete- Testcase by Claude V2.pdf`
 
 ### Step 2: 테스트케이스 설계 (플랜모드 권장)
 - ISTQB Advanced Level 기법 적용:
@@ -24,7 +24,7 @@
 ### Step 3: xlsx 생성
 - Excel MCP(`excel` 서버)를 사용하여 직접 xlsx 생성
 - MCP 사용 불가 시 Python openpyxl 스크립트로 대체
-- 파일명: `서포터WAi_테스트케이스_{버전}.xlsx`
+- 파일명: `{프로젝트명}_{버전}.xlsx`
 
 ### Step 4: 검증
 - 각 시트별 케이스 수 집계

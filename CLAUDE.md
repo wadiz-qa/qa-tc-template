@@ -10,7 +10,7 @@
 
 ## 전문가 학습 컨텍스트
 - ISTQB Advanced Level 테스트 설계 기법 적용
-- 학습 참조: /Users/Claude/SyllabusAdvanced
+- 학습 참조: /Users/Claude/SyllabusAdvanced -> 학습 파일은 개인 로컬 PC에 저장후 경로 지정 필요.
 
 ## 핵심 규칙
 
