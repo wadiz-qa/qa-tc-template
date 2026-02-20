@@ -14,7 +14,7 @@ Claude Code를 활용하여 QA 테스트케이스를 효율적으로 설계하�
 
 ```bash
 # 1. 템플릿 clone
-git clone https://github.com/sungkyu-QA/qa-tc-template.git 내프로젝트명
+git clone https://github.com/wadiz-qa/qa-tc-template.git 내프로젝트명
 cd 내프로젝트명
 rm -rf .git   # 기존 git 이력 제거
 
