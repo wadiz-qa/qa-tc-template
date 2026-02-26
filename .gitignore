@@ -10,3 +10,12 @@ __pycache__/
 
 # 분석 결과 (Phase 1에서 자동 생성됨, 필요시 제거)
 # _summaries/*.md
+# _summaries/*/
+
+# TC 중간 데이터 (에이전트팀 모드)
+# _tc_data/
+
+# 생성 스크립트
+generate_*.py
+supplement_*.py
+tc_generator.py
