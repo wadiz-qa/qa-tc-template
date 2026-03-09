@@ -50,6 +50,14 @@ merged_coverage_matrix.md
 - business_rules.md: {내용}
 - phase2_subagents.md: {내용}
 
+## [v5.0] 과거 프로젝트 학습 — TC 작성 스킬
+다음 학습 파일의 내용을 TC 작성에 반영합니다:
+- 커버리지 패턴: {_agent_learning/tc_craft/coverage_patterns.md 내용}
+- 작성 가이드: {_agent_learning/tc_craft/writing_guide.md 내용}
+- 안티패턴: {_agent_learning/tc_craft/anti_patterns.md 내용}
+- 시트 분류: {_agent_learning/tc_craft/sheet_placement.md 내용}
+> 주의: 이 학습은 과거 경험 기반 가이드입니다. 현재 프로젝트의 규칙/매트릭스가 우선합니다.
+
 ## Phase 2 서브에이전트 구성
 {phase2_subagents.md에 정의된 비즈니스 기능별 서브에이전트}
 
